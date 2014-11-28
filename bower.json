@@ -1,7 +1,7 @@
 {
   "name": "angularbknd-services",
   "description": "AngularJS Services for Back&",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": [
     "angularbknd-services.debug.js",
     "angularbknd-services.min.js"
@@ -10,7 +10,8 @@
     "auth.js",
     "data.js",
     "services.js",
-    "package.json"
+    "package.json",
+    "Gruntfle.js"
   ],
   "homepage": "https://github.com/backand/angularbknd-services",
   "license": "MIT",
